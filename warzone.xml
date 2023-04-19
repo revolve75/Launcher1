@@ -1,0 +1,25 @@
+<Warzone>
+    <!-- Here you have to set the top bar link addresses -->
+    <Links>
+        <websitelink>http://localhost/website</websitelink>
+        <discordlink>http://localhost/discord</discordlink>
+        <forumlink>http://localhost/forum</forumlink>
+        <accountlink>http://localhost/account</accountlink>
+        <supportlink>http://localhost/support</supportlink>
+        <launcherlink>http://localhost/warzone_launcher_v3/Warzone%20Launcher%20v3.exe</launcherlink>
+    </Links>
+    <!-- Here you have to set world server ports for realm1 and realm2 -->
+    <Realms>
+        <realm1 worldserverport="8085"/>
+        <realm2 worldserverport="8086"/>
+    </Realms>
+    <!-- Here you have to set the server realmlist -->
+    <Realmlist>127.0.0.1</Realmlist>
+    <!-- Here you add the patches links for realm1 and realm2 -->
+    <Patches>
+        <patch realm="1">http://localhost/warzone_launcher_v3/patches/patch-test1.MPQ</patch>
+        <patch realm="1">http://localhost/warzone_launcher_v3/patches/patch-test2.MPQ</patch>
+        <patch realm="2">http://localhost/warzone_launcher_v3/patches/patch-test8.MPQ</patch>
+        <patch realm="2">http://localhost/warzone_launcher_v3/patches/patch-test9.MPQ</patch>
+    </Patches>
+</Warzone>
