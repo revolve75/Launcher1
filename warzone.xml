@@ -6,7 +6,7 @@
         <forumlink>http://odyssey.servegame.com/forum</forumlink>
         <accountlink>http://odyssey.servegame.com/account</accountlink>
         <supportlink>http://odyssey.servegame.com/support</supportlink>
-        <launcherlink>http://odyssey.servegame.com/warzone_launcher_v3/warzone.xml/warzone_launcher_v3/Warzone%20Launcher%20v3.exe</launcherlink>
+        <launcherlink>http://odyssey.servegame.com/warzone_launcher_v3//warzone_launcher_v3/Warzone%20Launcher%20v3.exe</launcherlink>
     </Links>
     <!-- Here you have to set world server ports for realm1 and realm2 -->
     <Realms>
@@ -17,9 +17,7 @@
     <Realmlist>odyssey.servegame.com</Realmlist>
     <!-- Here you add the patches links for realm1 and realm2 -->
     <Patches>
-        <patch realm="1">http://odyssey.servegame.com/warzone_launcher_v3/patches/patch-test1.MPQ</patch>
-        <patch realm="1">http://odyssey.servegame.com/warzone_launcher_v3/patches/patch-test2.MPQ</patch>
-        <patch realm="2">http://odyssey.servegame.com/warzone_launcher_v3/patches/patch-test8.MPQ</patch>
-        <patch realm="2">http://odyssey.servegame.com/warzone_launcher_v3/patches/patch-test9.MPQ</patch>
-    </Patches>
+        <patch realm="1">http://odyssey.servegame.com/warzone_launcher_v3/patches/patch-enGB-4.MPQ</patch>
+        
+        </Patches>
 </Warzone>
