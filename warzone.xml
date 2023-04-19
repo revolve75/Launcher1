@@ -20,5 +20,8 @@
         <patch realm="1">http://odyssey.servegame.com/warzone_launcher_v3/Patches/patch-enGB-4.MPQ</patch>
         <patch realm="1">http://odyssey.servegame.com/warzone_launcher_v3/Patches/patch-enGB-5.MPQ</patch>
         <patch realm="1">http://odyssey.servegame.com/warzone_launcher_v3/Patches/patch-enGB-6.MPQ</patch>
+        <patch realm="2">http://odyssey.servegame.com/warzone_launcher_v3/Patches/patch-enGB-4.MPQ</patch>
+        <patch realm="2">http://odyssey.servegame.com/warzone_launcher_v3/Patches/patch-enGB-5.MPQ</patch>
+        <patch realm="2">http://odyssey.servegame.com/warzone_launcher_v3/Patches/patch-enGB-6.MPQ</patch>
         </Patches>
 </Warzone>
