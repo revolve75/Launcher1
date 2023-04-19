@@ -17,7 +17,7 @@
     <Realmlist>odyssey.servegame.com</Realmlist>
     <!-- Here you add the patches links for realm1 and realm2 -->
     <Patches>
-        <patch realm="1">http://odyssey.servegame.com/warzone_launcher_v3/patches/patch-enGB-4.MPQ</patch>
+        <patch realm="1">http://odyssey.servegame.com/warzone_launcher_v3/Patches/patch-enGB-4.MPQ</patch>
         
         </Patches>
 </Warzone>
